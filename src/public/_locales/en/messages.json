@@ -1,0 +1,6 @@
+{
+  "extName": {
+    "message": "vite-webext-bugreport",
+    "description": "The title of the application, displayed in the web store."
+  }
+}
